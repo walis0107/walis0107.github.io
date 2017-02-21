@@ -1,0 +1,18 @@
+-[class^="col-"] {
+    border: 20px solid;
+}
+
+header {
+    text-align: center
+    height: 300px;
+    border: 2px solid blue;
+    background-image: url(http://source.unsplash.com/1000x500);
+    background-size: cover;
+}
+section1 {
+    text-align: center
+    height: 200px;
+    border: 2px solid blue;
+    background-color: crimson;
+    background-size: cover;
+}
